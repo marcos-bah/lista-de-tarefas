@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/marcos-bah/lista-de-tarefas/blob/master/docs/tarefas.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
